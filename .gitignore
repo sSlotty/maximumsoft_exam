@@ -23,4 +23,4 @@ solution1/.env
 solution1/gin-bin
 # Go workspace file
 go.work
-.idea
+.idea/
